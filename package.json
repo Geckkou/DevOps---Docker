@@ -1,0 +1,15 @@
+{
+  "name": "app-node-docker",
+  "version": "1.0.0",
+  "description": "exercio para testar conhecimentos com o docker",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "Alexandre Augusto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
